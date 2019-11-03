@@ -1,0 +1,6 @@
+E:\work\_Freelancer\Liang Pro\11.11\Archive\TeamOrangeRPG-master\TeamOrangeRPG-master\Implementation\GameLibrary\bin\Debug\GameLibrary.dll
+E:\work\_Freelancer\Liang Pro\11.11\Archive\TeamOrangeRPG-master\TeamOrangeRPG-master\Implementation\GameLibrary\bin\Debug\GameLibrary.pdb
+E:\work\_Freelancer\Liang Pro\11.11\Archive\TeamOrangeRPG-master\TeamOrangeRPG-master\Implementation\GameLibrary\obj\Debug\GameLibrary.csprojAssemblyReference.cache
+E:\work\_Freelancer\Liang Pro\11.11\Archive\TeamOrangeRPG-master\TeamOrangeRPG-master\Implementation\GameLibrary\obj\Debug\GameLibrary.csproj.CoreCompileInputs.cache
+E:\work\_Freelancer\Liang Pro\11.11\Archive\TeamOrangeRPG-master\TeamOrangeRPG-master\Implementation\GameLibrary\obj\Debug\GameLibrary.dll
+E:\work\_Freelancer\Liang Pro\11.11\Archive\TeamOrangeRPG-master\TeamOrangeRPG-master\Implementation\GameLibrary\obj\Debug\GameLibrary.pdb
